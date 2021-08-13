@@ -1,5 +1,5 @@
 {
-  "name": "react-image-editor",
+  "name": "@toast-ui/react-image-editor",
   "version": "3.15.0",
   "description": "TOAST UI Image-Editor for React",
   "main": "dist/toastui-react-image-editor.js",
